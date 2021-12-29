@@ -63,8 +63,6 @@ axis[2].plot(df.views_date, df.views_legitimate_int_only_frac, label="Fraction v
 axis[2].set_title("Fraction Users vs. Fraction Views (Legit Interest only)")
 plt.show()
 
-
-
 # Python3 program to add two numbers
 # num1 = 15
 # num2 = 12  
@@ -72,6 +70,3 @@ plt.show()
 # sum = num1 + num2
 # printing values
 # print("Sum of {0} and {1} is {2}" .format(num1, num2, sum))
-
-
-# %%
